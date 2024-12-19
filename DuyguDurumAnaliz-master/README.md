@@ -1,16 +1,15 @@
 # Python-OpenCV Duygu Durum Analizi
 
-![Sunum](https://i.ibb.co/sWXqWQb/splash.png)
 
 ## Proje Tanımı
 Bir görüntü kaynağından elde edilen video ve fotoğraflar üzerindeki insan yüzlerinden duygu durum analizi yapan program.
 
 ## Sorumlu Öğretim Üyesi
-[Dr. Öğr. Üyesi LEVENT CİVCİK](http://ktun.edu.tr/PersonelBilgi/Index/NDk0OTUxMjI4MDQ=)
+[Dr. Öğr. Üyesi LEVENT BAYINDIR]
 
 ## Geliştirenler
-- Taha Yasin ÇİÇEK 230229088
-- Furkan ÖZTÜRK 230229083
+- [Taha Yasin ÇİÇEK 230229088]
+- [Furkan ÖZTÜRK 230229083]
 
 ## Altyapı
 - [Python 3.7+](https://www.python.org/)
