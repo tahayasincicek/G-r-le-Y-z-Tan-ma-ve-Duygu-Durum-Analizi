@@ -9,9 +9,8 @@ Bir görüntü kaynağından elde edilen video ve fotoğraflar üzerindeki insan
 [Dr. Öğr. Üyesi LEVENT CİVCİK](http://ktun.edu.tr/PersonelBilgi/Index/NDk0OTUxMjI4MDQ=)
 
 ## Geliştirenler
-- [Muharrem ERİN - 185036024](https://github.com/mewebstudio)
-- [Berk Mükremin KARAÇAYIR - 185036070](https://github.com/berkmkaracayir)
-- [Mahmut ÖZDAĞ - 185036044](https://github.com/Ozdg)
+- Taha Yasin ÇİÇEK 230229088
+- Furkan ÖZTÜRK 230229083
 
 ## Altyapı
 - [Python 3.7+](https://www.python.org/)
